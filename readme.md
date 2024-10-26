@@ -13,8 +13,8 @@ Samurai Showdown is an exciting 2D fighting game where players take on the role 
 - Master different techniques to become the ultimate samurai.
 
 ## How to Play
-1. Visit _________
-2. Or Visit _________
+1. Visit __not found site_______
+2. Or Visit ___not found______
 
 ## Important Note
 This project is intended for educational purposes. Please respect the effort put into it by not copying the code or assets. If you are interested in collaborating or discussing ideas, feel free to reach out!
