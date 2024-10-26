@@ -23,4 +23,4 @@ This project is intended for educational purposes. Please respect the effort put
 This project is not open for redistribution or modification without permission.
 
 ## Contact
-For any inquiries, please contact [Your Name] at [Your Email].
+For any inquiries, please contact **ME** at kaliaraps@gmail.com.
