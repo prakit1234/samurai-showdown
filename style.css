@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+canvas {
+    display: block;
+    background: url('./assets/images/background.png') no-repeat center center;
+    background-size: cover;
+}
